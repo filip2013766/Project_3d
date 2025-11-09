@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cyudwm85qc844"
-path="res://.godot/imported/Jumping.fbx-8fe222e6824cebb271439052b4618ee1.scn"
+path="res://.godot/imported/Jumping.fbx-bbfa5250a59fb3fd59d2280153f29a7c.scn"
 
 [deps]
 
-source_file="res://Jumping.fbx"
-dest_files=["res://.godot/imported/Jumping.fbx-8fe222e6824cebb271439052b4618ee1.scn"]
+source_file="res://folder.fbx.animacije/Jumping.fbx"
+dest_files=["res://.godot/imported/Jumping.fbx-bbfa5250a59fb3fd59d2280153f29a7c.scn"]
 
 [params]
 

@@ -1,6 +1,6 @@
 [gd_scene load_steps=7 format=3 uid="uid://cbpsweivrnvgy"]
 
-[ext_resource type="PackedScene" uid="uid://45wklmwlyhqy" path="res://player.tscn" id="1_bexhn"]
+[ext_resource type="PackedScene" uid="uid://45wklmwlyhqy" path="res://folder.fbx.animacije/player.tscn" id="1_bexhn"]
 
 [sub_resource type="ProceduralSkyMaterial" id="ProceduralSkyMaterial_qhyq2"]
 sky_horizon_color = Color(0.66224277, 0.6717428, 0.6867428, 1)
